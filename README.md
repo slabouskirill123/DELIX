@@ -1,4 +1,4 @@
-# DELIX KERNEL
+# DELIX KERNEL (BETA)
 
 **DELIX** — a standalone bare-metal kernel for x86, inspired by Unix but not compatible with it.  
 The goal of the project is to create a minimal, modular, and extensible operating system from scratch.
